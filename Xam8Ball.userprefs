@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Android/MainActivity.cs">
+    <Files>
+      <File FileName="Xam8Ball/App.cs" Line="5" Column="5" />
+      <File FileName="iOS/Renderers/ShakableContentPageRenderer.cs" Line="4" Column="4" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Xam8Ball/obj/Debug/MagicDisplay.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="Xam8Ball/EightBallContentPage.cs" Line="30" Column="30" />
+      <File FileName="Xam8Ball/CommonAnswers.cs" Line="34" Column="34" />
+      <File FileName="Xam8Ball/ShakableContentPage.cs" Line="4" Column="4" />
+      <File FileName="Android/MainActivity.cs" Line="3" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

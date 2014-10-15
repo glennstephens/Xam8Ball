@@ -1,0 +1,35 @@
+# Version: 8.2.0.193 (959c1e4)
+# [first argument, ignore] # /Users/glennstephens/Projects/Xam8Ball/iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.2.0.193/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/glennstephens/Projects/Xam8Ball/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/glennstephens/Projects/Xam8Ball/iOS/bin/iPhoneSimulator/Debug/Xam8BalliOS.app \
+	-r \
+	/Users/glennstephens/Projects/Xam8Ball/Xam8Ball/bin/Debug/Xam8Ball.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/glennstephens/Projects/Xam8Ball/packages/Xamarin.Forms.1.2.3.6257/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll \
+	-r \
+	/Users/glennstephens/Projects/Xam8Ball/packages/Xamarin.Forms.1.2.3.6257/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/glennstephens/Projects/Xam8Ball/packages/Xamarin.Forms.1.2.3.6257/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/glennstephens/Projects/Xam8Ball/iOS/bin/iPhoneSimulator/Debug/Xam8BalliOS.exe \
